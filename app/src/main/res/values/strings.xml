@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Quizzes</string>
+    <string name="textoPrincipal">Dale al boton\npara empezar el juego</string>
+    <string name="botonPrincipal">Iniciar Juego</string>
+    <string name="botonSiguiente">Siguiente pregunta</string>
+    <string name="botonReintentar">Reintentar pregunta</string>
+    <string name="botonValidar">Confirmar</string>
+    <string name="numPregunta">/3</string>
+    <string name="botonAcabar">Volver a empezar</string>
+    <string name="textoJuego">Señala la respuesta correcta</string>
+    <string name="enunciado1">País mas grande del mundo</string>
+    <string name="enunciado2">País más poblado del mundo</string>
+    <string name="enunciado3">País mas pequeño del mundo</string>
+    <string name="respuesta1pregunta1">Rusia</string>
+    <string name="respuesta2pregunta1">Canadá</string>
+    <string name="respuesta1pregunta2">China</string>
+    <string name="respuesta2pregunta2">India</string>
+    <string name="respuesta1pregunta3">Ciudad del Vaticano</string>
+    <string name="respuesta2pregunta3">Monaco</string>
+    <string name="respuestaCorrecta">Correcto\nProcedamos con\nla siguiente pregunta</string>
+    <string name="respuestaFallida">Incorrecto\nPor favor intente\nacertar que no es tan dificil</string>
+    <string name="respuestaFinal">Felicidades has ganado</string>
+</resources>
